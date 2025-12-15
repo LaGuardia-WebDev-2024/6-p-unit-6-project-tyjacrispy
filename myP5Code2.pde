@@ -12,7 +12,11 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-  
+  ellipse (200,290,297,444)
+  line(180,350,243,432)
+  line(180,350,243,300)
+  line(180,230,243,300)
+  line(180,230,243,165)
 
   
 
