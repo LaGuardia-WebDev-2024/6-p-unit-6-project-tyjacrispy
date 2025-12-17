@@ -18,6 +18,13 @@ void draw(){
   ellipse(153,158,34,87)
   ellipse(237,158,34,87)
 
+  fill (255,255,0)
+  beginshape()
+  vertex(155,251)
+  vertex(251,251)
+  vertex(196,258)
+  endshape ()
+
   
 
 }
