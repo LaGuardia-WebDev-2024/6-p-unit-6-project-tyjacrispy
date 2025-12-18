@@ -15,15 +15,24 @@ void draw(){
   ellipse(200,210,265,300)
   line(243,351,243,432)
   line(159,352,159,432)
-  ellipse(153,158,34,87)
-  ellipse(237,158,34,87)
+
+  fill(0,0,0)
+  ellipse(155,158,34,87)
+  ellipse(245,158,34,87)
 
   fill (255,255,0)
-  beginshape()
+  beginShape()
   vertex(155,251)
+  vertex(200,300)
   vertex(251,251)
-  vertex(196,258)
-  endshape ()
+  endShape ()
+
+fill (255,0,0)
+  ellipse (200,35,30,90)
+
+fill(255,255,255)
+  ellipse(73,300,75,110)
+  ellipse(335,300,75,110)
 
   
 
